@@ -1,3 +1,11 @@
+# blackroad-ai-platform
+
+> Unified sovereign AI platform - Inference, training, agents, and deployment
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/BlackRoad-OS-FF0066?style=for-the-badge&logo=github&logoColor=white" alt="BlackRoad OS"/>
 </p>
